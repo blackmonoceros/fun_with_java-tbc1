@@ -1,5 +1,5 @@
 ______________________________________________________________________________________________________________
-We create two classes: Account and Savings. The Account class has private fields Account number and balance, 
+We  create two classes: Account and Savings. The Account class has private fields Account number and balance, 
 and the constructor and methods for deposit and withdrawal. The Savings class inherits from the Account class 
 and adds an additional field: interest rate and accrueInterest() for special calculation. 
 The constructor of the Savings class uses the constructor of the base Account class.
